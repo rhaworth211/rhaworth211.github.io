@@ -18,7 +18,7 @@ function App() {
                     left: 0,
                     width: '100%',
                     height: '100%',
-                    backgroundImage: 'url(/background2.jpg)',
+                    backgroundImage: 'url(./background2.jpg)',
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat',

@@ -9,7 +9,7 @@ export default function Hero() {
             <Card sx={sharedCardSx}>
                 <CardContent>
                     <Avatar
-                        src="/profile.png"
+                        src="./profile.png"
                         alt="Ryan Haworth"
                         sx={{
                             width: 128,
