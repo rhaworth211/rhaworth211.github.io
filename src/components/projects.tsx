@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { sharedCardSx } from '../styles/cardStyle';
 import { Card, CardContent, Typography, Stack, Chip } from '@mui/material';
 import { getProjects,type Project } from '../services/projectService';

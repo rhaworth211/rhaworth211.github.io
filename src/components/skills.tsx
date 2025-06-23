@@ -1,6 +1,5 @@
-import * as React from 'react';
 import { sharedCardSx } from '../styles/cardStyle';
-import { Card, CardContent, Typography, List, ListItem, Stack, Chip, Accordion, AccordionSummary, AccordionDetails, } from '@mui/material';
+import { Typography, Stack, Chip, Accordion, AccordionSummary, AccordionDetails, } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { getSkills, type SkillGroup } from '../services/skillService';
 

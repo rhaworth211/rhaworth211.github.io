@@ -1,10 +1,10 @@
 import { Box, Container } from '@mui/material';
-import Hero from './components/Hero';
-import Header from './components/Header';
-import Projects from './components/Projects';
-import Experience from './components/Experience';
-import Skills from './components/Skills';
-import Education from './components/Education';
+import Hero from './components/hero';
+import Header from './components/header';
+import Projects from './components/projects';
+import Experience from './components/experience';
+import Skills from './components/skills';
+import Education from './components/education';
 import './App.css';
 
 function App() {

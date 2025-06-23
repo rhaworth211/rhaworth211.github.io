@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { sharedCardSx } from '../styles/cardStyle';
 
 import { Card, CardContent, Typography } from '@mui/material';

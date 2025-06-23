@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { Button, IconButton, Avatar, Card, CardContent,Typography,Box } from '@mui/material';
 import { Download, Email, GitHub, LinkedIn } from '@mui/icons-material';
 import { sharedCardSx } from '../styles/cardStyle';

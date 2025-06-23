@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { AppBar, Toolbar, Box, Typography } from '@mui/material';
 
 export default function Header() {
